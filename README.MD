@@ -5,6 +5,8 @@
   <img src="https://files.catbox.moe/iebw30.jpg">
 </p>
 
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new?template=https://github.com/UTTAM6786/RADHIKA)
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
